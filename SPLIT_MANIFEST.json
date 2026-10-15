@@ -1,0 +1,25 @@
+{
+  "source": "MiniCLIPTest",
+  "date": "2026-10-15",
+  "files_sha256": {
+    "mini_diffusion.pth": "32dd675affab5a5abc33f65b4b0e5e7707aeb16922d15ec199e1a323070ff5cf",
+    "requirements.txt": "3356da763490fc8b04d22a40bbc6d4d2b61c46c3d141bceaf10081fe327cd4a9",
+    "miniDiffusion.py": "182b08bd1a4c41d7bd16a15d56259316d32ce251743c7a61aef891e235bcf466",
+    "README.md": "1065a5950e76f361f72125469836cbf2ccaba808efbc3d7143c143e38dcba8d1",
+    ".gitignore": "ea8d74bf374aeee00e6820164f08e7023ed9fda00a4d4c33ca803a0209e9a453",
+    "results/generated_20261010_135155_795630.png": "285a927794d4859298a836dad97d6fa4b0a633a944d908fcd12c7101c854c07a",
+    "results/generated_20261010_135205_535828.png": "bb82a35a7f6c564b5d74852e9764c395fe71120bcef0a9b2c9cedcc409c7edb7",
+    "results/generated_20261010_134902_568774.png": "05c28a2dbb40307282dcfc8cc011b109e4f3f54065dcb9c0e21be2196b9d366a",
+    "results/generated_20261010_134928_573871.png": "5bb896ecd1cd7b47f7a26d31ae7a92214e571c987378dccd934655f095aa49e1",
+    "results/generated_20261010_134746_193195.png": "2dcf1c9c7dbba284f3a744442840098f4fbcd4d01eace90bcba94e51d775ff9c",
+    "results/generated_20261010_134748_643408.png": "f1621b42e82998c0d7bfc305718ebffa01ceed26c400b1d4dc9ece21c7e99753",
+    "data/cifar10/cifar-10-batches-py/data_batch_1": "54636561a3ce25bd3e19253c6b0d8538147b0ae398331ac4a2d86c6d987368cd",
+    "data/cifar10/cifar-10-batches-py/readme.html": "4d1c3fb199d6a183ae03f5162b469d7bc04edf2fad9547bd5f224271d52f98e5",
+    "data/cifar10/cifar-10-batches-py/batches.meta": "f962466ef690d46b226450fb9aadc74ba4bc64a76aa526b5827fe4bc5c7125cb",
+    "data/cifar10/cifar-10-batches-py/data_batch_2": "766b2cef9fbc745cf056b3152224f7cf77163b330ea9a15f9392beb8b89bc5a8",
+    "data/cifar10/cifar-10-batches-py/data_batch_5": "d91802434d8376bbaeeadf58a737e3a1b12ac839077e931237e0dcd43adcb154",
+    "data/cifar10/cifar-10-batches-py/test_batch": "f53d8d457504f7cff4ea9e021afcf0e0ad8e24a91f3fc42091b8adef61157831",
+    "data/cifar10/cifar-10-batches-py/data_batch_4": "3f7bb240661948b8f4d53e36ec720d8306f5668bd0071dcb4e6c947f78e9682b",
+    "data/cifar10/cifar-10-batches-py/data_batch_3": "0f00d98ebfb30b3ec0ad19f9756dc2630b89003e10525f5e148445e82aa6a1f9"
+  }
+}
